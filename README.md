@@ -1,1 +1,4 @@
-# VCS_task_4
+## VCS_task_4
+
+Задача: откатить `merge` в `main`.
+
