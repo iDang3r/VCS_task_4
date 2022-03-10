@@ -2,7 +2,7 @@
 
 int main() {
 
-    std::cout << "VCS_task_3" << std::endl;
+    std::cout << "VCS_task_4" << std::endl;
 
     return 0;
 }
